@@ -1,0 +1,9 @@
+INDEX VERSION 1.131+D:\学习资料、作业\空间分析\空间分析实验\.metadata\.plugins\org.eclipse.jdt.core
+4139690866.index
+982695065.index
+3587796289.index
+922101155.index
+2795228443.index
+2345476617.index
+2165313135.index
+2994644129.index
